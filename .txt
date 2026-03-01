@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/Baskerville42/outage-data-ua/main/data/kyiv-region.json
-https://github.com/devvsima-unreleased/SVstudio.git
-https://raw.githubusercontent.com/devvsima-unreleased/SVstudio/main/data/price.json
