@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "id": "manicure",
+      "name": "Манікюр",
+      "services": [
+        {
+          "id": "manicure_complex",
+          "name": "Манікюр комплекс",
+          "price": 700
+        },
+        {
+          "id": "french",
+          "name": "Френч",
+          "price": 100
+        },
+        {
+          "id": "manicure_hygienic",
+          "name": "Манікюр гігієнічний",
+          "price": 500
+        },
+        {
+          "id": "coating_without_manicure",
+          "name": "Покриття без манікюру",
+          "price": 400
+        },
+        {
+          "id": "gel_polish_removal",
+          "name": "Зняття гель лаку",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": "pedicure",
+      "name": "Педікюр",
+      "services": [
+        {
+          "id": "pedicure_complex",
+          "name": "Педікюр комплекс",
+          "price": 850
+        },
+        {
+          "id": "pedicure_with_coating",
+          "name": "Педікюр + покриття",
+          "price": 700
+        },
+        {
+          "id": "pedicure_cleaning",
+          "name": "Педікюр чистка",
+          "price": 500
+        },
+        {
+          "id": "foot_treatment",
+          "name": "Обробка стоп",
+          "price": 250
+        }
+      ]
+    }
+  ],
+  "currency": "₴",
+  "note": "* Ціни можуть варіюватися залежно від складності роботи"
+}
