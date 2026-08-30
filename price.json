@@ -7,7 +7,7 @@
         {
           "id": "manicure_complex",
           "name": "Манікюр комплекс",
-          "price": 900
+          "price": 1000
         },
         {
           "id": "manicure_complex_length",
@@ -48,7 +48,7 @@
         {
           "id": "pedicure_with_coating",
           "name": "Педікюр + покриття",
-          "price": 900
+          "price": 1000
         },
         {
           "id": "pedicure_cleaning",
