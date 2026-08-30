@@ -20,6 +20,11 @@
           "price": 100
         },
         {
+          "id": "tips",
+          "name": "Тіпси",
+          "price": 100
+        },
+        {
           "id": "manicure_hygienic",
           "name": "Манікюр гігієнічний",
           "price": 500
